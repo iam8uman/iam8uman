@@ -29,7 +29,7 @@ If you're looking for a frontend developer to bring your ideas to life, I'd love
 
 - GitHub: (https://github.com/iam8uman)
 - Email: [suman.191544@ncit.edu.np || me8848you@gmail.com ]
-- LinkedIn: (https://www.linkedin.com/in/suman-sharma-5bb9b8229/)
+- LinkedIn: (https://www.linkedin.com/in/iam8uman/)
 - Discord-userID: 993191684630380584
 
 
