@@ -1,14 +1,20 @@
-# Welcome to My GitHub Profile!👋
+# Welcome to My GitHub Profile!👋 नमस्कार !
 
 ## Skills
 
-- Linux
 - React.js
 - MERN stack (MongoDB, Express, React.js, Node.js)
 - JavaScript (JS)
+- Linux
 - Java
 - HTML
 - CSS
+
+## Contact Me for project 
+
+- GitHub: (https://github.com/iam8uman)
+- Email: [suman.191544@ncit.edu.np || me8848you@gmail.com ]
+- LinkedIn: (https://www.linkedin.com/in/suman-sharma-5bb9b8229/)
 
 ## About Me
 
@@ -18,17 +24,51 @@ I have experience working with JavaScript (JS), Java, HTML, and CSS. I strive to
 
 Feel free to explore my GitHub repositories and projects. If you find something interesting or have any questions, don't hesitate to reach out to me. I'm open to collaboration and always interested in new opportunities.
 
+
+
+Thank you for visiting my profile! I look forward to connecting with you.
+
+
+
+# Welcome to My GitHub Profile!
+
+## Skills
+
+- **React.js**
+- **Node.js**
+- **MERN stack** (MongoDB, Express, React.js, Node.js)
+- **Linux**
+- JavaScript (JS)
+- Java
+- HTML
+- CSS
+
+## About Me
+
+Hello, I'm Suman Sharma from 🇳🇵, a frontend developer with a passion for building user-friendly and visually appealing web applications. I specialize in React.js and the MERN stack, and I love turning ideas into interactive experiences.
+
+**Why Me?**
+- Expertise in **React.js** and the **MERN stack**
+- Strong understanding of frontend development principles
+- Experience with JavaScript (JS), HTML, and CSS
+- Attention to detail and a focus on creating clean and maintainable code
+- Proven track record of delivering high-quality projects
+
+If you're looking for a frontend developer to bring your ideas to life, I'd love to hear from you. Let's work together to create exceptional web applications that exceed your expectations.
+
+
 ## Contact Me
 
 - GitHub: (https://github.com/iam8uman)
 - Email: [suman.191544@ncit.edu.np || me8848you@gmail.com ]
-- LinkedIn: ([https://www.linkedin.com/in/yourlinkedinprofile](https://www.linkedin.com/in/suman-sharma-5bb9b8229/))
+- LinkedIn: (https://www.linkedin.com/in/suman-sharma-5bb9b8229/)
 
-Thank you for visiting my profile! I look forward to connecting with you.
 
-## Iam also a regular blogger You can visit my blog here 
+## I am also a regular blogger You can visit my blog here 
 link : https://sumansharma07.com.np/
 
+
+Thank you for visiting my profile! I'm excited to connect with you and discuss your frontend development projects.
 
 
 <!--
