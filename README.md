@@ -6,6 +6,7 @@
 - **Node.js**
 - **MERN stack** (MongoDB, Express, React.js, Node.js)
 - **Linux**
+- **Git & Github || Gitlab**
 - JavaScript (JS)
 - Java
 - HTML
