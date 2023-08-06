@@ -17,6 +17,8 @@
 
 Hello, I'm Suman Sharma from Kathmandu Nepal 🇳🇵, a frontend developer with a passion for building user-friendly and visually appealing web applications. I specialize in React.js and the MERN stack, and I love turning ideas into interactive experiences.
 
+<img src='./about me.png'/>
+
 ### **Why Me?**
 - Expertise in **React.js** and the **MERN stack**
 - Strong understanding of frontend development principles
