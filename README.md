@@ -68,8 +68,8 @@ If you're looking for a frontend developer to bring your ideas to life, I'd love
 
 
 
-# I am also a regular blogger, You can visit my blog here 
-## Visit : https://sumansharma07.com.np/
+# Rate my blogs: 
+## Suman's Quest: https://sumansharma07.com.np/
 <hr/>
 <div align='center'>
   <img  src='./iam8uman (1).png' />
