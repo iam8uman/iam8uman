@@ -3,8 +3,8 @@
 <h2 align="left">Skills</h2>
 
 
-- **React.js**
-- **Node.js**
+- **React.js || Shadcn || MUI**
+- **Node.js || Express**
 - **Next.ts with Typescript**
 - **MERN stack** (MongoDB, Express, React.js, Node.js)
 - **Linux** || **Ubuntu**
