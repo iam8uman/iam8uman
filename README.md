@@ -24,7 +24,7 @@ Hello, I'm Suman Sharma from Kathmandu Nepal 🇳🇵, a frontend developer with
 
 ## **Why Me?**
 - Expertise in **React.js**, **Next.js** and the **MERN stack**
-- Familiar with Multiple Frontend UI libraries like Shadcn, MUI, NextUI and tailwindcss,
+- Familiar with Multiple Frontend UI libraries like Shadcn, MUI, NextUI & tailwindcss,
 - Strong understanding of frontend development principles
 - Experience with JavaScript (JS), HTML, and CSS
 - Attention to detail and a focus on creating clean and maintainable code
