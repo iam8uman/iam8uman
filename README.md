@@ -6,7 +6,7 @@
 - **React.js || Shadcn || MUI**
 - **Node.js || Express**
 - **Next.ts with Typescript**
-- **MERN stack** (MongoDB, Express, React.js, Node.js)
+- **MERN stack** (MongoDB, Express, React.js, Node.js))
 - **Linux** || **Ubuntu**
 - **Git & Github || Gitlab**
 - JavaScript (JS)
