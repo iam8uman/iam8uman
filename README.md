@@ -78,4 +78,4 @@ If you're looking for a frontend developer to bring your ideas to life, I'd love
 
 # Finally !
 
-Thank you for visiting my profile! I'm excited to connect with you and discuss your frontend development projects.
+Thank you for visiting my profile! I'm excited to connect with you and discuss your frontend development projects..
