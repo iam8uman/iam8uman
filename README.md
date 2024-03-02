@@ -69,7 +69,7 @@ If you're looking for a frontend developer to bring your ideas to life, I'd love
 
 
 
-# Rate my blogs: 
+# Rate my blogs :)
 ## Suman's Quest: https://blog.sumansharma.info.np/
 <hr/>
 <div align='center'>
