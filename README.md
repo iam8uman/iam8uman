@@ -30,7 +30,7 @@ Hello, I'm Suman Sharma from Kathmandu Nepal 🇳🇵, a frontend developer with
 - Attention to detail and a focus on creating clean and maintainable code
 - Proven track record of delivering high-quality projects
 
-If you're looking for a frontend developer to bring your ideas to life, I'd love to hear from you. Let's work together to create exceptional web applications that exceed your expectations.
+If you're looking for a frontend developer to bring your ideas to life, I'd love to hear from you. Let's work together to create exceptional web applications that exceed your expectations
 
 
 <h3 align="left">Languages and Tools I am familiar with so far:</h3>
