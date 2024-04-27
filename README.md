@@ -50,6 +50,9 @@ If you're looking for a frontend developer to bring your ideas to life, I'd love
 
   <hr/>
 
+  [![trophy](https://github-profile-trophy.vercel.app/?username=iam8uman)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 # Connect With Me For Project :)
 
 - GitHub: (https://github.com/iam8uman)
