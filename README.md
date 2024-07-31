@@ -56,7 +56,7 @@ If you're looking for a front-end developer to bring your ideas to life, I'd lov
 # Connect With Me For Project :)
 
 - GitHub: (https://github.com/iam8uman)
-- Email: [suman.191544@ncit.edu.np || iam8uman@gmail.com ]
+- Email: [code.sumansharma@gmail.com || whysumancode@gmail.com ]
 - LinkedIn: (https://www.linkedin.com/in/iam8uman/)
 - Discord-userID: 993191684630380584
 
