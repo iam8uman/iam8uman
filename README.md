@@ -3,7 +3,8 @@
 <h2 align="left">Skills</h2>
 
 
-- **React.js || Shadcn || MUI**
+- **Nextjs || Shadcn || Reactjs**
+- **Reactnative || native wind || expo**
 - **Node.js || Express**
 - **Next.ts with Typescript**
 - **MERN stack** (MongoDB, Express, React.js, Node.js)
