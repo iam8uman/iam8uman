@@ -2,7 +2,7 @@
 
 <h2 align="left">Skills</h2>
 
-
+Full Stack **Mobile and Web Application** Developer
 - **Nextjs || Shadcn || Reactjs**
 - **Reactnative || native wind || expo**
 - **Node.js || Express**
