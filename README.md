@@ -113,9 +113,7 @@ If you're looking for a front-end developer to bring your ideas to life, I'd lov
 [![GitHub Streak](https://streak-stats.demolab.com?user=iam8uman&theme=dark&card_width=1000)](https://git.io/streak-stats)
 <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iam8uman&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=1000)
-[![Suman's GitHub activity graph]
-<br/>
-(https://github-readme-activity-graph.vercel.app/graph?username=iam8uman&theme=github-compact)](https://github.com/iam8uman/github-readme-activity-graph)
+[![Suman's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iam8uman&theme=github-compact)](https://github.com/iam8uman/github-readme-activity-graph)
 <br/>
 [![](https://visitcount.itsvg.in/api?id=iam8uman&icon=0&color=0)](https://visitcount.itsvg.in)
 
