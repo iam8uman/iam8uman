@@ -121,4 +121,4 @@ If you're looking for a front-end developer to bring your ideas to life, I'd lov
 </div> -->
 
 🎈
-# Thank you for visiting my profile! I'm excited to connect with you and collaborate. I am just a text away!!!
+**Thank you for visiting my profile! I'm excited to connect with you and collaborate. I am just a text away!!!**
