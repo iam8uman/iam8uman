@@ -1,30 +1,41 @@
-<h1 align="center">Welcome to My GitHub Profile!👋</h1>
-
-<h2 align="left">Skills</h2>
-
-Full Stack **Mobile and Web Application** Developer
-- **Nextjs || Shadcn || Reactjs**
-- **Reactnative || native wind || expo**
-- **Node.js || Express**
-- **Next.ts with Typescript**
-- **MERN stack** (MongoDB, Express, React.js, Node.js)
-- **Linux** || **Ubuntu**
-- **Git & Github || Gitlab**
-- JavaScript (JS)
-- Java
-- HTML
-- CSS
-
 ## About Me!
 
-Hello, I'm Suman Sharma from Kathmandu Nepal 🇳🇵, a frontend developer with a passion for building user-friendly and visually appealing web applications. I specialize in React.js and the MERN stack, and I love turning ideas into interactive experiences.
+Hello. I'm Suman Sharma from Kathmandu, Software Engineer 🇳🇵 | Full-Stack Developer [Mobile & Web] | Indie Developer | Building Yaks Inc. | Freelancing at https://whysumancode.com 
 
-<div align='center'>
-  <img  src='./aboutme.png' />
+<div align="left">
+  <a href="https://twitter.com/iam8uman" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
+  <a href="https://www.youtube.com/@whysumancode" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
+  <a href="https://www.instagram.com/_sumanifest/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="code.sumansharma@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/iam8uman/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
 </div>
 
-## **Why Me?**
-- Expertise in **React.js**, **Next.js** and the **MERN stack**
+
+
+<h2 align="left">SKILLS</h2>
+
+Full Stack **Mobile and Web Application** Developer
+- **Nextjs || Shadcn || Reactjs || Vuejs || Nuxtjs || Tailwindcss || Redux || Zustand**
+- **Reactnative || native wind || expo**
+- **Node.js || Express || Nestjs**
+- **Next.ts with Typescript**
+- **PERN stack** (Postgres, Express, React.js, Node.js)
+- **Linux** || **Ubuntu**
+- **Git & Github || Gitlab**
+
+
+## WHY ME?
+- Expertise in **React.js**, **Next.js** and the **PERN stack**
 - Familiar with Multiple Frontend UI libraries like Shadcn, MUI, NextUI & tailwindcss,
 - Strong understanding of frontend development principles
 - Experience with JavaScript (JS), HTML, and CSS
@@ -34,52 +45,80 @@ Hello, I'm Suman Sharma from Kathmandu Nepal 🇳🇵, a frontend developer with
 If you're looking for a front-end developer to bring your ideas to life, I'd love to hear from you. Let's work together to create exceptional web applications that exceed your expectations.
 
 
-<h3 align="left">Languages and Tools I am familiar with so far:</h3>
-<p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-  <hr/>
-
-  [![trophy](https://github-profile-trophy.vercel.app/?username=iam8uman)](https://github.com/ryo-ma/github-profile-trophy)
+## TOP 🌟🌟🌟 PROJECTS 
+### 📍 Visit my own UI library KHARAYO 🐰 https://ui.whysumancode.com
+### 📍 Published my own npm package at https://t.ly/ukQ0a
+### 📍 Build  my own freelancing platform  https://whysumancode.com
+### 📍 130+ technical blog on https://ui.whysumancode.com/blog
+### 📍 NOSK, Member of Nepal Open Source Klub-NCIT. 
+### 📍 NAS IT Winner from NEPAL 2024
 
 
-# Connect With Me For Project :)
+## TOOLS & TECHNOLOGY!
 
-- GitHub: (https://github.com/iam8uman)
-- Email: [code.sumansharma@gmail.com || whysumancode@gmail.com ]
-- LinkedIn: (https://www.linkedin.com/in/iam8uman/)
-- Discord-userID: 993191684630380584
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="30" alt="yarn logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="30" alt="xcode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="30" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="30" alt="gimp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="30" height="30"/>
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"/>
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/>
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/>
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30"/> 
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/>
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/> 
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="30" height="30" /> 
+</div>
 
-<p align="left">
-
-<a href="https://linkedin.com/in/iam8uman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iam8uman" height="30" width="40" /></a>
-<a href="https://fb.com/iam8uman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="iam8uman" height="30" width="40" /></a>
-<a href="https://instagram.com/_sumanifest" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iam8uman" height="30" width="40" /></a>
-<a href="https://hashnode.com/@iam8uman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@iam8uman" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@whysumancode/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="iam8uman" height="30" width="40" /></a>
-</p>
-
-
-
-
-Rate my blogs 💌
-Suman's Quest: https://blog.sumansharma.info.np/
 <hr/>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=iam8uman)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+  
+## GITHUB Stats:
+[![GitHub Streak](https://streak-stats.demolab.com?user=iam8uman&theme=dark&card_width=1000)](https://git.io/streak-stats)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=iam8uman&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=1000)
+[![Tanmay's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iam8uman&theme=github-compact)](https://github.com/iam8uman/github-readme-activity-graph)
+
+[![](https://visitcount.itsvg.in/api?id=iam8uman&icon=0&color=0)](https://visitcount.itsvg.in)
+
 <!-- <div align='center'>
   <img  src='./iam8uman (1).png' />
 </div> -->
 
-# Finally! 🎈
-
+🎈
 Thank you for visiting my profile! I'm excited to connect with you and discuss your frontend development projects...
