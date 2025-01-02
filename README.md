@@ -45,17 +45,6 @@ Full Stack **Mobile and Web Application** Developer
 
 If you're looking for a front-end developer to bring your ideas to life, I'd love to hear from you. Let's work together to create exceptional web applications that exceed your expectations.
 
-
-
-## TOP 🌟🌟🌟 PROJECTS 
-### 📍 Visit my own UI library KHARAYO 🐰 https://ui.whysumancode.com
-### 📍 Published my own npm package at https://t.ly/ukQ0a
-### 📍 Build  my own freelancing platform  https://whysumancode.com
-### 📍 130+ technical blog on https://ui.whysumancode.com/blog
-### 📍 NOSK, Member of Nepal Open Source Klub-NCIT. 
-### 📍 NAS IT Winner from NEPAL 2024
-
-
 ## TOOLS & TECHNOLOGY 📀
 
 <div align="left">
@@ -103,6 +92,17 @@ If you're looking for a front-end developer to bring your ideas to life, I'd lov
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="30" height="30" /> 
 </div>
+
+
+
+## TOP 🌟🌟🌟 PROJECTS 
+### 📍 Visit my own UI library KHARAYO 🐰 https://ui.whysumancode.com
+### 📍 Published my own npm package at https://t.ly/ukQ0a
+### 📍 Build  my own freelancing platform  https://whysumancode.com
+### 📍 130+ technical blog on https://ui.whysumancode.com/blog
+### 📍 NOSK, Member of Nepal Open Source Klub-NCIT. 
+### 📍 NAS IT Winner from NEPAL 2024
+
 
 <hr/>
 
