@@ -43,7 +43,7 @@ Full Stack **Mobile and Web Application** Developer
 - Attention to detail and a focus on creating clean and maintainable code
 - Proven track record of delivering high-quality projects
 
-If you're looking for a front-end developer to bring your ideas to life, I'd love to hear from you. Let's work together to create exceptional web applications that exceed your expectations.
+If you're looking for a Full-Stack developer with knowledge of web and mobile development, I'd love to hear from you. Let's work together to create exceptional applications that exceed your expectations.
 
 ## TOOLS & TECHNOLOGY 📀
 
