@@ -1,7 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=iam8uman&icon=0&color=0)](https://visitcount.itsvg.in)
 ## Why Suman Code?
 
-**Hello. I'm Suman Sharma from Kathmandu, Software Engineer 🇳🇵 | Full-Stack Developer [Mobile & Web] | Indie Hacker| Building Yaks Inc. | Freelancing at https://whysumancode.com** 
+**Hello. I'm Suman Sharma from Kathmandu, Software Engineer 🇳🇵 | Full-Stack Developer [Mobile & Web] | Indie Hacker | Building Yaks Inc. | Freelancing at https://whysumancode.com** 
 
 <div align="left">
   <a href="https://twitter.com/iam8uman" target="_blank">
