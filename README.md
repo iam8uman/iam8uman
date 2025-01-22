@@ -3,13 +3,13 @@
 
 **Hello. I'm Suman Sharma from Kathmandu Nepal, a proud Co-Founder & COO | Entrepreneur 
 </br>
-🌟 Software Engineer 🇳🇵 
+🌟 Software Engineer 🇳🇵
+</br>
+🌟 Full Stack Developer [Web & Mobile]
 </br>
 🌟 Indie Hacker
 </br>
 🌟 Building Yaks Inc.
-</br>
-🌟 Full Stack Developer [Web & Mobile]
 </br>
 🌟 Freelancing at https://whysumancode.com** 
 
