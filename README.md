@@ -11,7 +11,7 @@
 </br>
 🌟 Building Yaks Inc.
 </br>
-🌟 Freelancing at https://whysumancode.com** 
+🌟 Freelancing at https://sumansharma.info.np** 
 
 <div align="left">
   <a href="https://twitter.com/iam8uman" target="_blank">
@@ -106,10 +106,10 @@ If you're looking for a Full-Stack developer with knowledge of web and mobile de
 
 
 ## TOP 🌟🌟🌟 PROJECTS 
-### 📍 Visit my own UI library KHARAYO 🐰 https://ui.whysumancode.com
+### 📍 Visit my own UI library KHARAYO 🐰 https://ui.sumansharma.info.np
 ### 📍 Published my own npm package at https://t.ly/ukQ0a
-### 📍 Build  my own freelancing platform  https://whysumancode.com
-### 📍 130+ technical blog on https://ui.whysumancode.com/blog
+### 📍 Build  my own freelancing platform  https://sumansharma.info.np
+### 📍 130+ technical blog on https://kharayo.sumansharma.info.np/blog
 ### 📍 NOSK, Member of Nepal Open Source Klub-NCIT. 
 ### 📍 NAS IT Winner from NEPAL 2024
 
