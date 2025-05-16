@@ -1,7 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=iam8uman&icon=0&color=0)](https://visitcount.itsvg.in)
 ## Why Suman Code?
 
-**Hello. I'm Suman Sharma from Kathmandu Nepal, a proud Co-Founder & COO | Entrepreneur 
+**Hello. I'm Suman Sharma from Kathmandu, Nepal, a proud Co-Founder & COO | Entrepreneur 
 </br>
 🌟 Software Engineer 🇳🇵
 </br>
@@ -11,7 +11,7 @@
 </br>
 🌟 Building Yaks Inc.
 </br>
-🌟 Freelancing at https://sumansharma.info.np** 
+🌟 Founder & Agency Owner @ https://sumansharma.info.np** 
 
 <div align="left">
   <a href="https://twitter.com/iam8uman" target="_blank">
