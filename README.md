@@ -40,7 +40,7 @@ Full Stack **Mobile and Web Application** Developer
 - **Reactnative || native wind || expo**
 - **Node.js || Express || Nestjs**
 - **Next.ts with Typescript**
-- **PERN stack** (Postgres, Express, React.js, Node.js )
+- **PERN stack** ( Postgres, Express, React.js, Node.js )
 - **Linux** || **Ubuntu**
 - **Git & Github || Gitlab**
 
