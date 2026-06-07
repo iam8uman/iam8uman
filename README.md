@@ -1,7 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=iam8uman&icon=0&color=0)](https://visitcount.itsvg.in)
 ## Why Suman Code?
 
-**Hello. I'm Suman Sharma from Kathmandu, Nepal, a proud Co-Founder & COO | Entrepreneur 
+**Hello. I'm Suman Sharma from Kathmandu, Nepal, a Serial Entrepreneur, Startup Founder
 </br>
 🌟 Software Engineer 🇳🇵
 </br>
@@ -11,7 +11,7 @@
 </br>
 🌟 Building Yaks Inc.
 </br>
-🌟 Founder & Agency Owner @ https://sumansharma.info.np** 
+🌟 Meet the Founder @ https://sumansharma.info.np** 
 
 <div align="left">
   <a href="https://twitter.com/iam8uman" target="_blank">
@@ -36,10 +36,10 @@
 <h2 align="left">SKILLS</h2>
 
 Full Stack **Mobile and Web Application** Developer
-- **Nextjs || Shadcn || Reactjs || Vuejs || Nuxtjs || Tailwindcss || Redux || Zustand**
+- **Nextjs || Shadcn || Reactjs || Vuejs || Nuxtjs || Tailwindcss || Redux || Zustand || Astro **
 - **Reactnative || native wind || expo**
 - **Node.js || Express || Nestjs**
-- **Next.ts with Typescript**
+- **Next.ts with TypeScript **
 - **PERN stack** ( Postgres, Express, React.js, Node.js )
 - **Linux** || **Ubuntu**
 - **Git & Github || Gitlab**
