@@ -36,10 +36,10 @@
 <h2 align="left">SKILLS</h2>
 
 Full Stack **Mobile and Web Application** Developer
-- **Nextjs || Shadcn || Reactjs || Vuejs || Nuxtjs || Tailwindcss || Redux || Zustand || Astro **
+- **Nextjs || Shadcn || Reactjs || Vuejs || Nuxtjs || Tailwindcss || Redux || Zustand || Astro**
 - **Reactnative || native wind || expo**
 - **Node.js || Express || Nestjs**
-- **Next.ts with TypeScript **
+- **Next.ts with TypeScript**
 - **PERN stack** ( Postgres, Express, React.js, Node.js )
 - **Linux** || **Ubuntu**
 - **Git & Github || Gitlab**
