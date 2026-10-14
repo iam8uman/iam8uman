@@ -1,134 +1,92 @@
-[![](https://visitcount.itsvg.in/api?id=iam8uman&icon=0&color=0)](https://visitcount.itsvg.in)
-## Why Suman Code?
+<h1 align="left">Suman Sharma</h1>
 
-**Hello. I'm Suman Sharma from Kathmandu, Nepal, a Serial Entrepreneur, Startup Founder
-</br>
-🌟 Software Engineer 🇳🇵
-</br>
-🌟 Full Stack Developer [Web & Mobile]
-</br>
-🌟 Indie Hacker
-</br>
-🌟 Building Yaks Inc.
-</br>
-🌟 Meet the Founder @ https://sumansharma.info.np** 
+<p align="left">
+  <b>Senior Full Stack Engineer (frontend-heavy)</b> · AI Products · SaaS<br/>
+  Kathmandu, Nepal · Remote
+</p>
 
-<div align="left">
-  <a href="https://twitter.com/iam8uman" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-  <a href="https://www.youtube.com/@whysumancode" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://www.instagram.com/_sumanifest/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-<a href="mailto:code.sumansharma@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/iam8uman/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+<p align="left">
+  <a href="https://www.linkedin.com/in/whysumancode/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="LinkedIn" /></a>
+  <a href="mailto:code.sumansharma@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Email" /></a>
+  <a href="https://sumansharma.info.np" target="_blank"><img src="https://img.shields.io/static/v1?message=Portfolio&logo=googlechrome&label=&color=FFD43B&logoColor=black&labelColor=&style=for-the-badge" height="30" alt="Portfolio" /></a>
+  <a href="https://x.com/whysumancode" target="_blank"><img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="X" /></a>
+  <a href="https://www.youtube.com/@whysumancode" target="_blank"><img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="YouTube" /></a>
+  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=iam8uman&icon=0&color=0" height="30" alt="Profile visits" /></a>
+</p>
 
+## About
 
+I'm a senior full stack engineer with 4+ years of experience building production web and mobile apps, mostly remote for teams in Norway, Canada and the British Virgin Islands. I work across the stack, with deep frontend expertise, and today I focus on AI-powered products.
 
-<h2 align="left">SKILLS</h2>
+**Open to remote roles:** Senior Frontend Engineer · Full Stack Engineer · AI Product Engineer.
+Reach me on [LinkedIn](https://www.linkedin.com/in/whysumancode/) or at [code.sumansharma@gmail.com](mailto:code.sumansharma@gmail.com).
 
-Full Stack **Mobile and Web Application** Developer
-- **Nextjs || Shadcn || Reactjs || Vuejs || Nuxtjs || Tailwindcss || Redux || Zustand || Astro**
-- **Reactnative || native wind || expo**
-- **Node.js || Express || Nestjs**
-- **Next.ts with TypeScript**
-- **PERN stack** ( Postgres, Express, React.js, Node.js )
-- **Linux** || **Ubuntu**
-- **Git & Github || Gitlab**
+## Experience
 
+**Senior Frontend Engineer · [DMCLounge AI](https://dmclounge.ai)** (Oslo, Norway · Remote) · Jul 2025 – Present
+- Lead development of an AI-powered travel itinerary platform.
+- Designed the frontend architecture with Next.js and TypeScript, and built backend APIs with NestJS.
+- Built the itinerary customization engine and integrated Google Maps, email and WhatsApp.
 
-## WHY ME?
-- Expertise in **React.js**, **Next.js** and the **PERN stack**
-- Familiar with Multiple Frontend UI libraries like Shadcn, MUI, NextUI & tailwindcss,
-- Strong understanding of frontend development principles
-- Experience with JavaScript (JS), HTML, and CSS
-- Attention to detail and a focus on creating clean and maintainable code
-- Proven track record of delivering high-quality projects
+**Full Stack Engineer · [Dimitra Technology](https://dimitra.io)** (Remote) · Oct 2024 – May 2026
+- Built enterprise applications for smart agriculture, used by global customers.
+- Moved coordinate datasets to a spatial polygon architecture, turning millions of coordinate lookups into a much smaller set of spatial queries.
 
-If you're looking for a Full-Stack developer with knowledge of web and mobile development, I'd love to hear from you. Let's work together to create exceptional applications that exceed your expectations.
+**Lead Frontend Developer · [Pahuna Homes](https://pahunahomes.com)** · Jan 2025 – Jan 2026
+- Led frontend for a short-term rental and homestay booking platform built with React, Next.js and TypeScript.
+- Built real-time features with WebSockets, automated operations with n8n, and set up testing with Jest and Storybook.
 
-## TOOLS & TECHNOLOGY 📀
+**Frontend Web Developer · Homebaba Technologies** (Ontario, Canada) · Dec 2023 – Sep 2024
+- Built product features with Next.js, React, shadcn/ui, Zustand and TanStack Query.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="30" alt="yarn logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="30" alt="xcode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="30" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="30" alt="gimp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="30" height="30"/>
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"/>
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/>
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/>
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30"/> 
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/>
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/> 
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="30" height="30" /> 
-</div>
+## Projects
+
+| Project | Description |
+| --- | --- |
+| [Hairover](https://hairover.app) | AI app to try a hairstyle before you cut it. Taken from idea to Google Play launch in 8 days. |
+| [Kharayo UI](https://ui.sumansharma.info.np) | My React UI library built with Next.js, TypeScript, shadcn/ui, Tailwind CSS and Framer Motion. |
+| [npm package](https://t.ly/ukQ0a) | Published and maintained on npm. |
+| [Technical blog](https://sumansharma.info.np/blog) | 130+ articles on web development. |
+
+## Tech Stack
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,redux,html,css" alt="Frontend skills" />
 
 
+**Mobile**
 
-## TOP 🌟🌟🌟 PROJECTS 
-### 📍 Visit my own UI library KHARAYO 🐰 https://ui.sumansharma.info.np
-### 📍 Published my own npm package at https://t.ly/ukQ0a
-### 📍 Build  my own freelancing platform  https://sumansharma.info.np
-### 📍 130+ technical blog on https://kharayo.sumansharma.info.np/blog
-### 📍 NOSK, Member of Nepal Open Source Klub-NCIT. 
-### 📍 NAS IT Winner from NEPAL 2024
+<img src="https://skillicons.dev/icons?i=react,androidstudio" alt="Mobile skills" />
 
+**Backend & Databases**
 
-<hr/>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=iam8uman)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,postgres,mongodb,firebase" alt="Backend skills" />
 
 
-  
-## GITHUB STATS 📊
-[![GitHub Streak](https://streak-stats.demolab.com?user=iam8uman&theme=dark&card_width=1000)](https://git.io/streak-stats)
-<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iam8uman&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=1000)
-[![Suman's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iam8uman&theme=github-compact)](https://github.com/iam8uman/github-readme-activity-graph)
-<br/>
+**DevOps & Tools**
 
-<!-- <div align='center'>
-  <img  src='./iam8uman (1).png' />
-</div> -->
+<img src="https://skillicons.dev/icons?i=docker,aws,githubactions,linux,git,jest,figma,vercel" alt="DevOps and tools" />
 
-🎈**Thank you for visiting my profile! I'm excited to connect with you and collaborate. I am just a text away!!!**
+**AI**
+
+LLM APIs · Agentic AI workflows · n8n automation
+
+## Recognition
+
+- NAS-IT Innovation Award winner, Nepal 2024
+- Represented Nepal at APICTA
+- Member of Nepal Open Source Klub (NOSK), NCIT
+- Mentor and technical workshop organizer in Nepal's developer community
+
+## GitHub Stats
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=iam8uman&theme=dark&hide_border=true" alt="GitHub streak" />
+</p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam8uman&theme=dark&hide_border=true&layout=compact" alt="Top languages" />
+</p>
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iam8uman&theme=github-compact&hide_border=true" alt="Contribution graph" />
+</p>
